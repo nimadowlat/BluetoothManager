@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bluetooth Manager</string>
+    <string name="scan">Scan</string>
+    <string name="ok">OK</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="connected">Connected</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="connection_fail">Connection Fail</string>
+    <string name="scanning">Scanning…</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+</resources>
